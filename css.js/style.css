@@ -57,9 +57,10 @@ body {
 
 /* Conteneur principal */
 .overlay-image {
-  position:sticky;
+  position:relative;
   width: 20em;
-  margin: 5em 2em 5em 2em;
+  margin: 2% 0% 2% 8%;
+  float: left;
  }
  
  /* Image originale */
